@@ -13,4 +13,4 @@ pipeline {
         }
       
 }
-#sample pipeline
+#sample pipelines
