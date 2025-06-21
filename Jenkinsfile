@@ -13,4 +13,4 @@ pipeline {
         }
       
 }
-#sample pipelines
+#sample pipelines of ansible integration
