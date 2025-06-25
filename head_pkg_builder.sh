@@ -103,3 +103,5 @@ else
         echo Creating new list commit file
         echo $LCOMMIT > /var/lib/jenkins/workspace/lastcommit/$BNAME.txt
 fi
+
+##1212
