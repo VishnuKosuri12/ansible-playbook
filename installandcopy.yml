@@ -8,3 +8,4 @@
        copy:
          src: /root/ansible-play/java-tomcat-maven-example.war
          dest: /home/meaurovind/deploy
+#1212
